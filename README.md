@@ -1,6 +1,6 @@
-# 📸 Zumbale Feed App – Zumbale Mobile Engineer Challenge
+# 📸 Zubale Feed App – Zumbale Mobile Engineer Challenge
 
-This is a React Native (Expo) implementation of a simplified Instagram-like feed, built as part of the technical assessment for Zumbale's Mobile Engineer position.
+This is a React Native (Expo) implementation of a simplified Instagram-like feed, built as part of the technical assessment for Zubale's Mobile Engineer position.
 
 ---
 
